@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Chigurupalli Rakesh and I'm a Pre Graduate ..., from .Giet Engineering College...</h2>
+<h2 align="left">Hi there! 👋 I'm Chigurupalli Rakesh 
+I'm a passionate Java Full Stack Developer with a strong foundation in both frontend and backend technologies. Currently, I'm diving deep into Java, Spring Boot, and building dynamic web applications using modern tools like React, HTML, CSS, and JavaScript.
+I love learning new frameworks and best practices while building real-world projects. Feel free to explore my repositories and contribute!</h2>
 
 ###
 
